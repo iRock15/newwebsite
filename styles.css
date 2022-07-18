@@ -1,1 +1,141 @@
-A
+@keyframes example {
+
+  from {background-color: #4c0080;}
+
+  to {background-color: #1f0033;}
+
+  
+
+}
+
+@keyframes he {
+
+  from {background-color: #1f0033;}
+
+  to {background-color: #4c0080;}
+
+}
+
+@keyframes hhh {
+
+  0%   {background-color:red; left:0px; top:0px;}
+
+  25%  {background-color:yellow; left:200px; top:0px;}
+
+  50%  {background-color:blue; left:200px; top:200px;}
+
+  75%  {background-color:green; left:0px; top:200px;}
+
+  100% {background-color:red; left:0px; top:0px;}
+
+}
+
+  
+
+    body {
+
+      animation-name: example;
+
+      aname: he;
+
+      animation-duration: 7s;
+
+     background: #1f0033
+
+    }
+
+    h1 {
+
+      color: beige;
+
+      font-size: 420%;
+
+      text-align: center;
+
+    }
+
+     center {
+
+       color: #ebccff;
+
+       font-size: 350%;
+
+     
+
+      
+
+     }
+
+     #heh {
+
+       color: white;
+
+     }
+
+    a {
+
+      color: #ebccff;
+
+      font-size 270%;
+
+      position: relative;
+
+      top: 497%;
+
+      left: 37%;
+
+    }
+
+    .aa{
+
+      left: 50%;
+
+      right: 50%;
+
+      width: 50%;
+
+      bottom: 50%;
+
+      color: #1f0033;
+
+      background-color: beige;
+
+    }
+
+    .par {
+
+        color: beige;
+
+    }
+
+    .lmao {
+
+        color: beige;
+
+        position: relative;
+
+        top: 380%;
+
+        
+
+    }
+
+    img {
+
+        position: relative;
+
+        left: 5%;
+
+    
+
+}
+
+button {
+
+    height: 40px;
+
+    position: relative;
+
+    top: 500px;
+
+}
